@@ -19,7 +19,7 @@ Detalhes sobre a vaga:
 - CLT até 8.000 a depender do nível do candidato.
 - VR
 - Nossa semana tem 40h de segunda a sexta, sem turno no sábado. Mas não é só tranquilidade, somos responsáveis e entregamos o combinado.
-- Presencial.
+- Presencial na Marques do Pombal em Porto Alegre.
 
 Nesse momento estamos procurando alguém senior para assumir a API do Cíngulo, então se você começou a pouco com Python ou Django e DRF ou sabe muito pouco sobre as tecnologias descritas acima, por favor não envie currículo agora. Aguarde termos uma vaga que se encaixe no seu perfil.
 
