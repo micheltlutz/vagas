@@ -24,4 +24,5 @@ Detalhes sobre a vaga:
 Nesse momento estamos procurando alguém senior para assumir a API do Cíngulo, então se você começou a pouco com Python ou Django e DRF ou sabe muito pouco sobre as tecnologias descritas acima, por favor não envie currículo agora. Aguarde termos uma vaga que se encaixe no seu perfil.
 
 # Se interessou?
+
 Manda o currículo pra ricardo@cingulo.com e vem com a gente! Essa história vai ser épica e está recém começando.
